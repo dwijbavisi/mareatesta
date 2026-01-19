@@ -1,6 +1,8 @@
 # Mareatesta
 A vessel for the mind, anchored to the tides of time.
 
+![World Icon](./Mareatesta/world_icon.jpeg)
+
 > Project name, description and this readMe are unrelated to the repository content.
 
 ## The Tide and the Vessel
